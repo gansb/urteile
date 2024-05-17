@@ -1,0 +1,67 @@
+Titel:
+Subsidiarität der Wertfestsetzung gem. § 33 RVG gegenüber der Festsetzung des Verfahrenswerts nach dem FamGKG
+Normenketten:
+BGB § 1587
+RVG § 33
+VersAusglG § 3 Abs. 1
+FamGKG § 55 Abs. 3 Nr. 2, § 59
+Leitsätze:
+1. Auch bei Entscheidungen gem. § 3 Abs. 3 VersAusglG (kurze Ehedauer) im Verbund findet stets ein gerichtliches Verfahren statt. Dies ist bei der Festsetzung des Verfahrenswertes zu berücksichtigen. (Rn. 13 – 16)
+2. Ein Antrag nach § 33 RVG ist neben der gerichtlichen Festsetzung des Verfahrenswertes unzulässig. (Rn. 12)
+Schlagworte:
+Verfahrenswert, Folgesache, Versorgungsausgleich, kurze Ehedauer, Subsidiaritätsprinzip
+Vorinstanz:
+AG Amberg, Beschluss vom 21.09.2023 – 1 F 260/23
+Fundstellen:
+FamRZ 2024, 547
+LSK 2023, 35568
+FuR 2024, 136
+BeckRS 2023, 35568
+NJW-RR 2024, 622
+Tenor
+Die sofortige Beschwerde der anwaltlichen Vertreterin des Antragsgegners gegen den Beschluss des Amtsgerichts – Familiengericht – Amberg vom 21.09.2023 wird zurückgewiesen.
+Gründe
+1
+Die Beschwerdeführerin wendet sich gegen die Zurückweisung eines Antrags gemäß § 33 RVG.
+I.
+2
+Das Amtsgericht – Familiengericht – Amberg hat mit Endbeschluss vom 16.08.2023 die erst am 03.02.2023 geschlossene Ehe der beteiligten Ehegatten geschieden. Hinsichtlich des Versorgungsausgleichs wurde folgende Regelung getroffen:
+3
+Ein Versorgungsausgleich findet nicht statt.
+4
+Das Erstgericht führt diesbezüglich folgende Begründung an:
+5
+Ein Versorgungsausgleich findet nicht statt, weil die Ehezeit gemäß §§ 1587 BGB, 3 Abs. 1 VersAusglG nicht mehr als 3 Jahre beträgt und kein Ehegatte den Versorgungsausgleich nach § 3 Abs. 3 VersAusglG beantragt hat. Bei einer Ehezeit von bis zu 3 Jahren findet ein Versorgungsausgleich nur auf Antrag und nicht von Amts wegen statt.
+6
+Mit Beschluss vom 16.08.2023 setzte das Erstgericht den Verfahrenswert für das Scheidungsverbundverfahren fest. Ein Verfahrenswert für eine Folgesache Versorgungsausgleich wurde nicht festgesetzt.
+7
+Mit Schreiben vom 17.08.2023 beantragte die anwaltliche Vertreterin des Antragsgegners eine Festsetzung des Verfahrenswertes gemäß § 33 RVG für die Berechnung der Anwaltsvergütung hinsichtlich ihrer Tätigkeit betreffend des Versorgungsausgleichs. Das Erstgericht wies diesen Antrag mit Beschluss vom 21.09.2023 als unzulässig zurück. Der Verfahrenswert sei bereits durch Beschluss vom 16.08.2023 festgesetzt worden. Ein Antrag gemäß § 33 Abs. 1 RVG habe subsidiären Charakter. Eine gerichtliche Tätigkeit bezüglich des Versorgungsausgleichs sei nicht erfolgt. Im Termin vom 16.08.2023 sei lediglich deklaratorisch festgestellt worden, dass kein Antrag gestellt wurde. Das Tätigwerden der Antragsgegnervertreterin hinsichtlich des Versorgungsausgleichs sei außergerichtlich gewesen.
+8
+Der Beschluss wurde der Antragsgegnervertreterin am 25.09.2023 zugestellt. Mit Schreiben vom 05.10.2023 hat die Antragsgegnervertreterin sofortige Beschwerde eingelegt. § 33 RVG sei hier nicht subsidiär, da es sich um eine gerichtliche Tätigkeit gehandelt habe.
+9
+Das Erstgericht hat der Beschwerde mit Beschluss vom 10.10.2023 nicht abgeholfen und hat das Verfahren dem Beschwerdegericht vorgelegt. Zur Ergänzung des Sachverhalts wird auf die eingereichten Schriftsätze und Beschlüsse Bezug genommen.
+II.
+10
+Die Beschwerde ist gemäß § 33 Abs. 3 RVG statthaft und auch im Übrigen zulässig. Sie wurde insbesondere innerhalb der 2-wöchigen Beschwerdefrist gemäß § 33 Abs. 3 Satz 3 RVG eingelegt. Der Beschwerdewert liegt über 200 €, § 33 Abs. 3 Satz 1 RVG.
+11
+Die Beschwerde ist jedoch nicht begründet.
+12
+Wie vom Erstgericht zutreffend ausgeführt, hat die Wertfestsetzung für die Rechtsanwaltsgebühren gemäß § 33 RVG subsidiären Charakter zur Wertfestsetzung für die Gerichtsgebühren gemäß § 32 RVG.
+13
+Im vorliegenden Verfahren hat es das Erstgericht jedoch bei der Festsetzung des Verfahrenswertes im Beschluss vom 16.08.2023 fälschlicherweise unterlassen, auch den Versorgungsausgleich zu berücksichtigen.
+14
+Entgegen den Ausführungen des Erstgerichts liegt auch im vorliegenden Verfahren ein gerichtliches Handeln und ein gerichtliches Verfahren hinsichtlich des Versorgungsausgleichs vor. Gemäß § 3 Abs. 3 VersAusglG findet zwar ein Versorgungsausgleich bei einer Ehezeit von bis zu 3 Jahren nur statt, wenn ein Ehegatte dies beantragt. Das Gericht hat gleichwohl die Voraussetzungen dieser Regelung zu prüfen. Es hat dabei insbesondere die Dauer der Ehezeit und das Vorliegen eines Antrags bis zur Entscheidung zu überprüfen. Es hat sodann im Tenor und in den Gründen des Scheidungsendbeschlusses auf den Versorgungsausgleich einzugehen.
+15
+Dies ist auch beim vorliegenden Endbeschluss erfolgt. Die Tenorierung des Nicht-Stattfindens des Versorgungsausgleichs ist entgegen der Ansicht des Erstgerichts auch nicht rein deklaratorisch, sondern sie schließt insbesondere spätere Anträge auf Durchführung des Versorgungsausgleichs in einem separaten Verfahren aus und entfaltet damit Rechtsfolgen. Die Entscheidung ist auch beschwerdefähig. Damit hat ein gerichtliches Verfahren stattgefunden, für das auch ein gerichtlicher Verfahrenswert festzusetzen ist. Sowohl Rechtsprechung als auch Literatur bejahen überwiegend die Notwendigkeit der Festsetzung eines Verfahrenswertes auch bei Ausschluss des Versorgungsausgleichs wegen kurzer Ehezeit gem. § 3 Abs. 3 VersAusglG (vgl. Götsche/Rehbein/Breuers, Versorgungsausgleichsrecht, 3. Auflage 2018, § 224, Rn. 42; OLG Karlsruhe, Beschluss vom 26. 5. 2010 – 16 WF 82/10; OLG Düsseldorf, Beschluss vom 15.06.2010 – 7 WF 10/10). Dieser Meinung ist aus den angeführten Gründen zu folgen.
+16
+Die Regelung gem. Anlage 4 zu 03 der Anordnung über die Erhebung von statistischen Daten in Familiensachen (F-Statistik) nach der in den Fällen des § 3 Abs. 3 VersAusglG der Verfahrensgegenstand statistisch nur zu erfassen ist, wenn ein Antrag eines Ehegatten auf Durchführung des Versorgungsausgleichs vorliegt, stellt eine statistische Sonderregelung dar. Aufgrund des geringen Arbeitsaufwands des Gerichts ist in derartigen Fällen eine statistische Abweichung vom Standardfall der Durchführung des Versorgungsausgleichs angemessen. Dies hat jedoch keine Auswirkung darauf, dass ein gerichtliches Verfahren tatsächlich stattgefunden hat, für welches nach dem FamGKG ein Verfahrenswert festzusetzen ist.
+17
+Der Antragsgegnervertreterin steht es daher frei, gemäß § 59 Abs. 1 FamGKG Beschwerde gegen die vom Erstgericht erfolgte Festsetzung des Verfahrenswerts im eigenen Namen zu erheben. Dies wäre der zutreffende Rechtsbehelf. Das Beschwerdegericht kann die Wertfestsetzung im vorliegenden Verfahren nicht gemäß § 55 Abs. 3 Nr. 2 FamGKG selbst abändern, da dessen Voraussetzungen nicht vorliegen. Der Antrag ist daher innerhalb der Frist an das Erstgericht zu richten.
+18
+Den ausdrücklichen Antrag auf Festsetzung der Anwaltsgebühren gemäß § 33 RVG hat das erst Gericht jedoch zutreffend als unzulässig verworfen. Die sofortige Beschwerde war daher als unbegründet zurückzuweisen.
+III.
+19
+Die Kostenentscheidung ergibt sich aus § 33 Abs. 9 RVG.
+IV.
+20
+Ein weiteres Rechtsmittel ist gemäß § 33 Abs. 4 Satz 2 RVG nicht gegeben. Die Entscheidung ist daher nicht anfechtbar.

@@ -1,0 +1,90 @@
+Titel:
+Unbegründete Nichtigkeits- und Anfechtungsklage eines Minderheitsgesellschafters gegen die Feststellung des Jahresabschlusses einer GmbH im Umlaufverfahren
+Normenketten:
+COVMG § 2, § 5 Abs. 3
+AktG § 241 Nr. 1
+GmbHG § 45 Abs. 2, § 48 Abs. 2
+ZPO § 138 Abs. 4
+Leitsatz:
+Eine Bestimmung in der Satzung einer GmbH, wonach ein Umlaufverfahren möglich ist, wenn kein Gesellschafter dem Verfahren widerspricht, steht der Anwendung der Sondervorschrift des § 2 COVMG in der Zeit der COVID-19-Pandemie regelmäßig nicht entgegen. (Rn. 11 – 21)
+Schlagworte:
+Nichtigkeits- und Anfechtungsklage, Minderheitsgesellschafter, Umlaufverfahren, COVID-19-Pandemie, Gesellschafter, Beschlussmangel, Abstimmungsverfahren
+Weiterführende Hinweise:
+Auf den Hinweisbeschluss hin wurde die Berufung zurückgenommen.
+Fundstellen:
+WM 2024, 939
+BeckRS 2023, 45429
+Tenor
+1. Der Senat beabsichtigt, die Berufung gegen das Urteil des Landgerichts München II vom 05.08.2021, Az. 2 HK O 174/21, gemäß § 522 Abs. 2 ZPO zurückzuweisen, weil er einstimmig der Auffassung ist, dass die Berufung offensichtlich keine Aussicht auf Erfolg hat, der Rechtssache auch keine grundsätzliche Bedeutung zukommt, weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Berufungsgerichts erfordert und die Durchführung einer mündlichen Verhandlung über die Berufung nicht geboten ist.
+2. Hierzu besteht Gelegenheit zur Stellungnahme bis zum 30.11.2023.
+Entscheidungsgründe
+1
+Der Kläger ist Minderheitsgesellschafter der beklagten GmbH. Die Satzung regelt in § 10 Nr. 5, dass ein Umlaufverfahren möglich ist, wenn kein Gesellschafter dem Verfahren widerspricht.
+2
+Ende 2020 führte die Geschäftsführung der Beklagten unter Hinweis auf § 2 COVMG ein Umlaufverfahren durch, bei dem über die Feststellung des Jahresabschlusses 2019 und die Verwendung des Bilanzergebnisses 2019 abgestimmt werden sollte. Der Kläger hatte der Durchführung des Umlaufverfahrens über seinen Rechtsanwalt widersprochen. Gleichwohl stellte die Geschäftsführung nach Ablauf der Abstimmungsfrist das Zustandekommen der Beschlüsse mit den Stimmen des Mehrheitsgesellschafters zu Protokoll fest.
+3
+Dagegen hat der Kläger fristgerecht Nichtigkeits- und Anfechtungsklage erhoben. Neben inhaltlichen Mängeln rügt er einen Verstoß gegen § 10 Nr. 5 der Satzung. Er meint, dass die Satzungsregelung der Bestimmung in § 2 COVMG vorgehe.
+4
+Das Landgericht hat die Klage abgewiesen. Hiergegen wendet sich der Kläger mit seiner Berufung.
+5
+Die zulässige Berufung des Klägers ist unbegründet. Das Landgericht hat die Klage zu Recht abgewiesen. Auf die Urteilsbegründung, der sich der Senat anschließt, wird Bezug genommen. Die dagegen gerichteten Rügen des Klägers greifen nicht durch.
+6
+Die von dem Kläger erhobene Nichtigkeits- und Anfechtungsklage gegen die im Protokoll vom 28.12.2020 festgestellten Beschlüsse zur Feststellung und Genehmigung des Jahresabschlusses 2019 (Klageanträge 1 und 2) sowie zum Vortrag des Jahresfehlbetrags (Klageanträge 3 und 4) ist zulässig, aber unbegründet:
+7
+1. Die Nichtigkeits- und Anfechtungsklage analog §§ 241 ff. AktG ist vorliegend die statthafte Klageart, da das mit der Klage angegriffene Beschlussergebnis förmlich festgehalten wurde (vgl. BGH NZG 2016, 552 Rn. 20). Letzteres ist u.a. der Fall, wenn sich die Beschlussfeststellung – wie hier – aus einem Protokoll ergibt, dem die Gesellschafter eine entsprechende (vorläufige) Nachweisfunktion zugedacht haben, indem sie in der Satzung – wie in § 10 Nr. 7 der Satzung der Beklagten (Anlage K3) – geregelt haben, dass an die Übersendung eben dieses Protokolls eine Frist für die Erhebung der Beschlussanfechtungsklage anknüpft (BGH NZG 2008, 317 Rn. 25 a.E.; MüKo-GmbHG/Drescher, 4. Aufl. 2023, § 47 Rn. 57).
+8
+2. Die Klage ist unbegründet, weil weder ein Nichtigkeitsgrund noch ein zur Anfechtung berechtigender Beschlussmangel vorliegt.
+9
+2.1. Die angegriffenen Beschlüsse sind nicht deshalb formell rechtswidrig und damit analog § 241 Nr. 1 AktG nichtig, weil sie im Umlaufverfahren gefasst wurden.
+10
+Grundsätzlich ist ein Beschluss entsprechend § 241 Nr. 1 AktG nichtig, wenn er in einem gesetzlich oder statutarisch nicht zugelassenen Abstimmungsverfahren gefasst wurde (BGH NJW 2006, 2044 Rn. 10).
+11
+Hier war die im Umlaufverfahren durchgeführte Beschlussfassung indes rechtmäßig. Zwar gestattet § 10 Nr. 2 der Satzung ein Umlaufverfahren nur, wenn kein Gesellschafter dem Verfahren widerspricht (Anlage K3). Vorliegend hat sich der Klägervertreter in seiner Eigenschaft als Rechtsanwalt des Klägers mit Email vom 15.12.2020 der Fassung der streitgegenständlichen Beschlüsse im Umlaufverfahren widersetzt (Anlage K45). Ob dieser Widerspruch trotz Fehlens eines Nachweises einer Vollmacht gemäß § 9 Nr. 5 Satz 2 der Satzung wirksam ist, kann dahinstehen, da das Umlaufverfahren ausnahmsweise ungeachtet eines Widerspruchs des Klägers gemäß § 2 COVMG zulässig war.
+12
+2.1.1. Nach § 2 COVMG konnten in Hinblick auf die grassierende Corona-Pandemie abweichend von § 48 Abs. 2 GmbHG Beschlüsse in Textform oder durch schriftliche Abgabe der Stimmen auch ohne Einverständnis der Gesellschafter gefasst werden.
+13
+Die Norm galt im Zeitraum vom März 2020 bis 31.08.2022 (Bayer in: Lutter/Hommelhoff, GmbHG, 21. Aufl. 2023, § 48 Rn. 32; Noack in: Noack/Servatius/Haas, GmbHG, 23. Aufl. 2022, Anh. § 48 Rn. 9) und also auch für die streitgegenständlichen Beschlüsse vom Dezember 2020.
+14
+Das Verfahren nach § 2 COVMG setzt entsprechend dem Rechtsgedanken des § 5 Abs. 3 COVMG voraus, dass alle Gesellschafter an dem Beschlussverfahren beteiligt und hierzu rechtzeitig vorab über die Durchführung des besonderen Verfahrens in Kenntnis gesetzt wurden (Noack in: Noack/Servatius/Haas, aaO, Anh. § 48 Rn. 18). Dem wurde hier Genüge getan. Die Ladungsmail der Geschäftsführung der Beklagten vom 26.11.2020 enthielt einen expliziten Hinweis auf das beabsichtigte Verfahren nach § 2 COVMG; es bestand Gelegenheit zur Abstimmung bis zum 15.12.2020 (Anlage K44).
+15
+2.1.2. Die Regelung des Umlaufverfahrens in § 10 Nr. 2 der Satzung der Beklagten (Anlage K3) schließt die Anwendbarkeit des § 2 COVMG nicht aus.
+16
+Zwar ist § 2 COVMG in gleicher Weise gemäß § 45 Abs. 2 GmbH dispositiv wie § 48 Abs. 2 GmbHG, an deren Stelle die Norm tritt (Noack in: Noack/Servatius/Haas, aaO, Anh. § 48 Rn. 44). § 10 Nr. 2 der Satzung der Beklagten bestimmt, dass das Umlaufverfahren nur möglich ist, wenn kein Gesellschafter widerspricht; das Verfahren ist demnach grundsätzlich gerade nicht von dem Einverständnis der Gesellschafter unabhängig.
+17
+Gleichwohl führt die Auslegung der Satzungsregelung dazu, dass diese nicht für die Sondersituation der Corona-Pandemie gilt; diesbezüglich greift vielmehr die gesetzliche Spezialregelung gemäß § 2 COVMG.
+18
+Die körperschaftlichen Bestimmungen der Satzung einer GmbH schaffen objektives Recht auch gegenüber Dritten; sie sind daher aus sich selbst heraus, anhand objektiver Umstände auszulegen (BGH GmbHR 2012, 92 Rn. 8; Bayer in: Lutter/Hommelhoff, aaO, § 2 Rn. 19). In erster Linie kommt es auf Wortlaut und Sinnzusammenhang im Gesellschaftsvertrag an (Servatius in: Noack/Servatius/Haas, aaO, § 2 Rn. 31). Eine daneben mögliche teleologische Auslegung hat sich an objektiv bekannten Umständen zu orientieren (MüKo GmbHG/Heinze, 4. Aufl. 2022, § 2 Rn. 188). In diesem Rahmen ist ggf. auch eine ergänzende Vertragsauslegung möglich (BGH aaO Rn. 13; Servatius in: Noack/Servatius/Haas, aaO, § 2 Rn. 31 a.E.).
+19
+Danach ist hier davon auszugehen, dass die Satzung den Sonderfall der Corona-Pandemie unbedacht nicht mitgeregelt hat. § 10 Nr. 2 der Satzung ist entsprechend teleologisch zu reduzieren. Insoweit liegt folglich eine planwidrige Regelungslücke vor (Bayer/Möller GmbHR 2021, 461 Rn. 31). Denn die Satzung wurde – objektiv erkennbar – von den Gesellschaftern lange vor Auftreten der Pandemie vereinbart. Damals war allgemein – und also wiederum objektiv ersichtlich – nicht absehbar, dass eine Pandemie und die damit verbundenen Kontaktbeschränkungen physische Zusammenkünfte auf längere Zeit verhindern oder zumindest massiv erschweren und (lebens) gefährlicher machen würde (Bayer/Möller GmbHR 2021, 461 Rn. 31). Es ist fernliegend, dass die Gesellschafter diese extreme Ausnahmesituation, hätten sie sie bei Erstellung der Satzung bedacht, nicht mit einer gesonderten Regelung bedacht hätten (vgl. Noack in: Noack/Servatius/Haas, aaO, § 48 Rn. 45 a.E.).
+20
+Die Regelungslücke ist vorrangig durch die Heranziehung des dispositiven Rechts zu schließen, soweit dies sachdienlich ist; eine ergänzende Vertragsauslegung scheidet dann aus (Grüneberg/Ellenberger, BGB, 82. Aufl. 2023, § 157 Rn. 4). Danach greift hier der dispositive § 2 COVMG, der genau für die aufgetretene Lücke, die fehlende Antwort auf die Frage der Durchführung von Gesellschafterversammlungen in Zeiten der Corona-Pandemie, eine interessengerechte Lösung anbietet.
+21
+Die h.M., wonach sich jedenfalls bei einer den Wortlaut des § 48 Abs. 2 GmbHG lediglich wiederholenden Satzungsbestimmung die Geltung des § 2 COVMG regelmäßig aus einer vorzunehmenden ergänzenden Vertragsauslegung ergeben soll (OLG Brandenburg BeckRS 2022, 8763 Rn. 41; BeckOK GmbHG/Leinekugel, 57. Ed. 1.6.23, § 47 Anhang Rn. 295; Bayer in: Lutter/Hommelhoff, aaO, § 48 Rn. 40; Bayer/Möller GmbHR 2021, 461 Rn. 32), führt hier zum gleichen Ergebnis. § 10 Nr. 2 der Satzung der Beklagten gibt zwar nicht rein wiederholend den Gesetzeswortlaut wieder, sondern ersetzt das positive Zustimmungserfordernis des § 48 Abs. 2 GmbHG durch das Erfordernis des Fehlens eines Widerspruchs. Die darin liegende Abmilderung des gesetzlichen Zustimmungserfordernisses spricht indes nicht gegen, sondern vielmehr für eine Geltung der Sonderregelung des § 2 COVMG. Die Satzungsregelung, die das materielle Einstimmigkeitserfordernis für die Gesellschaft leichter handhabbar macht, würde in ihr Gegenteil verkehrt, wenn ihretwegen eine diesbezügliche gesetzliche Erleichterung ausgeschlossen würde. Mit der Satzungsregelung haben die Gesellschafter gezeigt, dass sie eher geringere, keinesfalls aber strengere Anforderungen an ein Umlaufverfahren stellen wollten als das Gesetz.
+22
+2.2. Die streitgegenständlichen Beschlüsse sind auch nicht aus materiellen Gründen nichtig oder anfechtbar.
+23
+2.2.1. Der Beschluss zur Feststellung und Genehmigung des Jahresabschlusses 2019 weist keine materiellen Mängel auf, die der erhobenen Nichtigkeits- und Anfechtungsklage zum Erfolg verhelfen würden.
+24
+Der Beschluss, mit dem ein Jahresabschluss einer GmbH gemäß § 42a Abs. 2 Satz 1 GmbHG festgestellt wird, kann analog § 243 AktG wegen inhaltlicher Mängel angefochten werden, da § 257 Abs. 1 Satz 2 AktG, der eine Anfechtung wegen Inhaltsmängeln ausschließt, auf die GmbH nicht anwendbar ist (KG NZG 2001, 845; MüKo GmbHG/Wertenbruch, 4. Aufl. 2023, Anh § 47 Rn. 226), weil das spezielle aktienrechtliche Schutzsystem der §§ 258 ff. AktG bei der GmbH nicht gilt (Bayer in: Lutter/Hommelhoff, aaO, Anh zu § 47 Rn. 57). Ein solcher inhaltlicher, zur Anfechtung berechtigender Mangel des Jahresabschlusses liegt bei einem Verstoß gegen die bilanzrechtlichen Vorschriften vor, etwa im Falle der Unterbewertung, soweit der Verstoß erheblich ist (KG NZG 2001, 845; Bayer in: Lutter/Hommelhoff, aaO, Anh zu § 47 Rn. 57).
+25
+Der Jahresabschluss der Beklagten für das Jahr 2019 leidet nicht an einem solch erheblichen inhaltlichen Mangel. Die Behauptungs- und Beweislast hierfür liegt beim Kläger (Noack in: Noack/Servatius/Haas, aaO, Anh § 47 Rn. 174).
+26
+2.2.1.1. Die Bilanz für 2019 verstößt nicht gegen den Grundsatz der Bilanzkontinuität gemäß § 252 Abs. 1 Nr. 1 HGB. Denn sie basiert unstreitig auf den Schlusswerten der Bilanz 2018, die Wertansätze der Bilanzposten stimmen also – und dies ist insoweit allein maßgeblich (Beck Bil-Komm./Störk/Büssow, 13. A. 2022, HGB § 252 Rn. 5) – überein.
+27
+2.2.1.2. Die vom Kläger behaupteten Schadensersatzforderungen der Beklagten gegen den Mitgesellschafter des Klägers und den Geschäftsführer der Beklagten waren in der Bilanz 2019 nicht zu aktivieren.
+28
+Die Forderungen sind und waren im Jahr 2019 sämtlich zwischen den Beteiligten streitig. Bei den Prozesskosten ist insbesondere das (vollständige) Erlöschen der Ansprüche durch Erfüllung umstritten, bei den Schadensersatzforderungen wegen des Agierens der Geschäftsführung im Zusammenhang mit dem Asset-Kaufvertrag vom 13.07.2016 stehen sowohl der Haftungsgrund also auch der kausale Schaden in Streit.
+29
+Derartige streitige Schadensersatzforderungen dürfen aber gemäß dem bilanzrechtlichen Vorsichtsprinzip nicht aktiviert werden, solange sie nicht rechtskräftig tituliert sind (BGH ZIP 2002, 802; GmbHR 2007, 437 Rn. 31; BFH DB 1989, 1949). Letzteres ist hier nicht geschehen. Vielmehr hat das Landgericht München II mit Urteil vom 15.06.2022 (2 HK O 2479/21) eine Klage des Klägers auf Feststellung der Schadensersatzpflicht des Geschäftsführers der Beklagten abgewiesen.
+30
+Hinzu kommt, dass die Geschäftsführung für das Jahr 2016 durch rechtswirksamen Beschluss der Gesellschafterversammlung der Beklagten vom 20.03.2018 (TOP 8) entlastet wurde.
+31
+2.2.1.3. Die Behauptung des Klägers, die Rückabwicklung des Asset-Kaufvertrages vom 13.07.2016 sei nicht vollständig im Jahresabschluss 2019 abgebildet (Klageschrift S. 27), führt gleichfalls nicht zum Klageerfolg. Zutreffend hat das Landgericht darauf abgestellt, dass der Kläger den insoweit getätigten eingehenden Beklagtenerläuterungen nichts Substantielles entgegengesetzt hat (LGU S. 9).
+32
+Durch das bloße Bestreiten mit Nichtwissen gemäß § 138 Abs. 4 ZPO bezüglich des Lagerbestands (Schriftsatz vom 27.04.2021 S. 25, Bl. 112 der Akte), des Marketing- und Werbematerials und des Ausstellungsstands (Schriftsatz vom 27.04.2021 S. 25, Bl. 112 der Akte), sowie der Unterlagen betreffend das QM-System und der CE-Kennzeichen (Schriftsatz vom 27.04.2021 S. 26, Bl. 113 der Akte) genügt der Kläger der ihm obliegenden Darlegungs- und Beweislast nicht. Gleiches gilt für das pauschale Bestreiten, dass die Nutzungsrechte der Beklagten an gekauften Normen geringwertige Wirtschaftsgüter gewesen seien (Schriftsatz vom 27.04.2021 S. 25, Bl. 112 der Akte).
+33
+Das Bestreiten, dass 2.000 € als Nettokaufpreis für die Rechte der Beklagten im Zusammenhang mit der Marke „A.“ ortsüblich und angemessen gewesen seien (Schriftsatz vom 27.04.2021 S. 25, Bl. 112 der Akte), vermag keinen Fehler der Bilanz zu begründen. Etwaige Schadensersatzansprüche wegen eines Unterwertverkaufs wären – da streitig und nicht rechtskräftig tituliert – nicht zu aktivieren gewesen (s.o.).
+34
+2.2.2. Der Beschluss zur Ergebnisverwendung ist gleichfalls materiell rechtmäßig. Rechtsgrundlage ist § 42a Abs. 2 Satz 1 GmbHG. Die Voraussetzung, dass ein Jahresabschluss festgestellt wurde (Kersting in: Noack/Servatius/Haas, aaO, § 42a Rn. 37), ist gegeben (s.o.).
+35
+Ausgehend von den obigen Ausführungen legt der Senat aus Kostengründen die Rücknahme der Berufung nahe.

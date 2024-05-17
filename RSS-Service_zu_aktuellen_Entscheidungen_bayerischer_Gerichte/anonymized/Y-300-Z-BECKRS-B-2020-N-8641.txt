@@ -1,0 +1,58 @@
+Titel:
+Unzulässige Anfechtungsklage gegen Entziehung der Fahrerlaubnis
+Normenketten:
+VwGO § 68 Abs. 1, § 74 Abs. 1, § 82 Abs. 1
+BayAGVwGO Art. 15 Abs. 1
+Leitsätze:
+1. Eine Anfechtungsklage, in der lediglich das Aktenzeichens des angegriffenen Bescheides, nicht aber die ausstellende Behörde oder der Beklagte benannt wird, entspricht nicht den Mindestanforderungen des § 82 Abs. 1 VwGO. Als notwendiger Inhalt einer Klage muss die Identität der Parteien und weiter feststellbar sein, in welcher Angelegenheit die Klage erhoben wird und auf welchen konkreten Fall sich die Rechtshängigkeit bezieht. (Rn. 17) (redaktioneller Leitsatz)
+2. Die Erhebung einer Anfechtungsklage bei gleichzeitiger Widerspruchseinlegung ist nach § 68 Abs. 1 S. 1 VwGO nicht statthaft, weil zunächst das Widerspruchsverfahren durchzuführen ist. Zwar räumt § 68 Abs. 1 S. 2 Alt. 1 VwGO iVm Art. 15 Abs. 1 BayAGVwGO eine Wahlmöglichkeit zwischen der Einlegung des Widerspruchs und der unmittelbaren Erhebung der Klage ein. Die Einlegung des Widerspruchs führt jedoch dazu, dass eine gleichzeitig bereits erhobene Anfechtungsklage unzulässig ist; ebenso ist ein Widerspruch jedenfalls dann unzulässig, wenn vorher schon Klage erhoben wurde. (Rn. 18) (redaktioneller Leitsatz)
+Schlagworte:
+Fahrerlaubnisentziehung, Anfechtungsklage (unzulässig), Mindestanforderungen der Klageerhebung, Widerspruchsverfahren vorrangig, Wahlmöglichkeit, Vorrang des früheren Rechtsbehelfs
+Fundstelle:
+BeckRS 2020, 8641
+Tenor
+I. Die Klage wird abgewiesen.
+II. Die Kosten des Verfahrens hat der Kläger zu tragen.
+III. Das Urteil ist wegen der Kosten vorläufig vollstreckbar. Der Kläger kann die Vollstreckung durch Sicherheitsleistung in Höhe des zu voll-streckenden Betrages abwenden, wenn nicht der Beklagte vorher in gleicher Höhe Sicherheit leistet.
+Tatbestand
+1
+Der 1967 geborene Kläger wendet sich gegen die Entziehung seiner Fahrerlaubnis der Klassen AM, BE, C1E und der darin enthaltenen Klassen.
+2
+1. Nachdem der Kläger ein mit Schreiben vom 26. Februar 2019 unter Verweis auf § 14 Abs. 2 Nr. 2 FeV i.V.m. Nr. 9.6.2 der Anlage 4 zur FeV gefordertes Gutachten nicht beigebracht hatte, entzog das Landratsamt mit kostenpflichtigem Bescheid vom 2. Dezember 2019 dem Kläger die Fahrerlaubnis zum Führen von Kraftfahrzeugen (Nr. 1) und ordnete an, den am 8. Dezember 1988 vom Landratsamt A. unter der Führerscheinnummer 95917 ausgehändigten Führerschein unverzüglich, spätestens innerhalb einer Woche nach Zustellung des Bescheides abzuliefern (Nr. 2). Die sofortige Vollziehbarkeit der Ziffer 1 und 2 wurde angeordnet (Nr. 3) und für den Fall, dass der Kläger der Aufforderung in Ziffer 2 nicht fristgerecht nachkommt, wurde ein Zwangsgeld in Höhe von 200,00 EUR angedroht (Nr. 4). Zur Begründung wurde im Wesentlichen ausgeführt, dass dem Kläger die Fahrerlaubnis zu entziehen gewesen sei, da er sich als ungeeignet zum Führen von Kraftfahrzeugen erwiesen habe, § 3 Abs. 1 Satz 1 StVG und § 46 Abs. 1 FeV i.V.m. Ziffer 3 Satz 3 der Vorbemerkung zur Anlage 4 FeV. Derjenige, der mit Subutex substituiert werde, sei im Regelfall nicht geeignet, Kraftfahrzeuge im Straßenverkehr sicher zu führen. Nur in seltenen Ausnahmefällen sei eine positive Beurteilung möglich, wenn besondere Umstände dies rechtfertigten. Da durch den Kläger kein Eignungsgutachten beigebracht worden sei, welches die bestehenden Zweifel an seiner Fahrtauglichkeit habe ausräumen können, durfte die Fahrerlaubnisbehörde von seiner Nichteignung ausgehen, § 11 Abs. 8 FeV. Die Verpflichtung zur Ablieferung des Führerscheins ergebe sich aus § 3 Abs. 2 Satz 3 StVG und § 47 Abs. 1 FeV. Die Anordnung des Zwangsgeldes beruhe auf Art. 29, 30 Abs. 1 i.V.m. Art. 20 Nr. 1, 31 und 36 VwZVG.
+3
+Der Bescheid wurde dem Kläger am 10. Dezember 2019 zugestellt. Eine Reaktion erfolgte nicht.
+4
+Mit Bescheid vom 27. Dezember 2019 stellte das Landratsamt das im Bescheid vom 2. Dezember 2019 in Ziffer 2 angedrohte Zwangsgeld fällig und drohte für den Fall, dass der Kläger der Verpflichtung zur Abgabe des Führerscheins nicht bis spätestens 3. Januar 2020 nachkomme, die Wegnahme des Führerscheins durch die Polizei an. Dieser Bescheid wurde dem Kläger am 3. Januar 2020 zugestellt.
+5
+Mit Schreiben vom 27. Dezember 2019, beim Landratsamt am 7. Januar 2020 eingegangen, legte der Kläger gegen den Bescheid Widerspruch ein, über den noch nicht entscheiden ist.
+6
+Ebenfalls mit Schreiben vom 27. Dezember 2019, am 7. Januar 2020 bei Gericht eingegangen, legte der Kläger „Klage gegen den Bescheid mit Zeichen …“ ein, ohne die ausstellende Behörde oder einen Beklagten zu benennen.
+7
+Mit Schreiben vom 7. Januar 2020 bat das Landratsamt die Polizeiinspektion A. um die Einziehung des Führerscheins mit der Listennummer … Mit Schreiben vom 16. Januar 2020 teilte die Polizei A. dem Landratsamt mit, dass bei einer Wohnsitznachschau am 14. Januar 2020 der Kläger habe angetroffen werden können. Der Kläger habe hierbei angegeben, dass er seinen Führerschein mitsamt Geldkarte und Krankenversichertenkarte verloren habe. Diesen Umstand habe er auch der Führerscheinbehörde gemeldet. Eine Verlustmeldung bei der Polizei habe er nicht erstattet.
+8
+2. Am 17. Januar 2020 ließ der Kläger durch seinen Bevollmächtigten unter Bezugnahme auf die vom Kläger persönlich erhobene Klage beantragen,
+der Bescheid des Beklagten vom 2. Dezember 2019 (Az.: …) wird aufgehoben.
+9
+Zur Begründung wurde ausgeführt, der Kläger habe mit persönlichem Schreiben vom 27. Dezember 2019 form- und fristgerecht Klage beim Verwaltungsgericht Würzburg erhoben. Die angefochtene Fahrerlaubnisentziehung sei rechtswidrig gewesen, da der Kläger nicht verpflichtet gewesen sei, das angeordnete medizinisch-psychologische Gutachten vorzulegen. Folglich sei der Bescheid antragsgemäß aufzuheben.
+10
+Das Landratsamt A. beantragte für den Beklagten,
+die Klage abzuweisen.
+11
+Zur Begründung wurden im Wesentlichen die Ausführungen des Entziehungsbescheides wiedergegeben.
+12
+3. Mit Beschluss vom 21. Februar 2020 wurde der am 17. Januar 2020 erhobene Antrag auf Eilrechtsschutz als unzulässig abgelehnt (Az.: W 6 S 20.135).
+13
+Mit Beschluss vom 14. April 2020 wurde der Rechtsstreit dem Einzelrichter zur Entscheidung übertragen.
+14
+Mit Schreiben vom 15. bzw. 21. April 2020 erklärten sich die Beteiligten mit einer Entscheidung ohne die Durchführung einer mündlichen Verhandlung einverstanden.
+15
+Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die Gerichtsakte, auch im Verfahren W 6 S 20.135 und die beigezogene Behördenakte verwiesen.
+Entscheidungsgründe
+16
+Die Klage hat keinen Erfolg, denn sie ist bereits unzulässig.
+17
+Die durch den Kläger persönlich mit Schreiben vom 27. Dezember 2019 (am 7.1.2020 bei Gericht eingegangen) erhobene Klage entsprach nicht den Mindestanforderungen des § 82 Abs. 1 VwGO, da lediglich aus der Nennung des Aktenzeichens des angegriffenen Bescheides, ohne die ausstellende Behörde zu benennen, weder der Beklagte noch der Gegenstand des Klageverfahrens hervorgeht. Zwar sind für die Klageerhebung keine allzu strengen Anforderungen zu stellen, jedoch muss als notwendiger Inhalt der Klage die Identität der Parteien feststellbar sein (Koppe/Schenke, VwGO, 24. Aufl. 2018, § 82 Rn. 3). Ebenso muss es für das Gericht und den Beklagten möglich sein, festzustellen, in welcher Angelegenheit die Klage erhoben wird und auf welchen konkreten Fall sich die Rechtshängigkeit bezieht (Kopp/Schenke, a.a.O., Rn. 7). Dies ist vorliegend nicht erfüllt, worauf der Kläger mit Schreiben des Gerichts vom 7. Januar 2020 hingewiesen wurde; eine Äußerung des Klägers erfolgte daraufhin nicht. Das Schreiben des Gerichts vom 7. Januar 2020 lag ausweislich der Einlassungen des Bevollmächtigten des Klägers vor. Die Rechtsbehelfsbelehrung:des Entziehungsbescheids war zutreffend, insbesondere wurde darin auf die Mindestanforderungen nach § 82 Abs. 1 VwGO bei Klageerhebung hingewiesen. Da die Klagefrist des § 74 Abs. 1 Satz 2 VwGO gegen den am 10. Dezember 2019 zugestellten Entziehungsbescheid zum Zeitpunkt des Eingangs des Schriftsatzes des Bevollmächtigten am 17. Januar 2020 bereits abgelaufen war, kommt eine nachträgliche Heilung der nicht ordnungsgemäßen Klageerhebung nicht in Betracht, denn die zur Identifizierung der Beteiligten und des Gegenstandes der Klage erforderlichen Mindestangaben können nicht mehr nachträglich ergänzt werden (Kopp/Schenke, a.a.O., Rn. 13).
+18
+Ungeachtet dessen hat der Kläger am 7. Januar 2020 Widerspruch beim Landratsamt A. eingelegt. Damit ist nach § 68 Abs. 1 Satz 1 VwGO die Erhebung einer Anfechtungsklage nicht statthaft, sondern es ist zunächst das Widerspruchsverfahren durchzuführen. Die erhobene Anfechtungsklage wäre selbst bei ordnungsgemäßer Erhebung jedenfalls aus diesem Grund unzulässig. So räumt § 68 Abs. 1 Satz 2 Alt. 1 VwGO i.V.m. Art. 15 Abs. 1 BayAGVwGO dem Betroffenen zwar die Wahlmöglichkeit zwischen einer Einlegung des Widerspruchs und der unmittelbaren Erhebung einer Klage ein. Die Einlegung des Widerspruchs führt jedoch dazu, dass eine gleichzeitig bereits erhobene Anfechtungsklage unzulässig ist; ebenso ist ein Widerspruch jedenfalls dann unzulässig, wenn vorher schon Klage erhoben wurde (Kopp/Schenke, VwGO, 24. Aufl. 2018, § 68 Rn. 17).
+19
+Die Kostenentscheidung beruht auf § 154 Abs. 1 VwGO, die vorläufige Vollstreckbarkeit der Kostenentscheidung beruht auf § 167 VwGO i.V.m. §§ 709 Nr. 11, 711 ZPO.

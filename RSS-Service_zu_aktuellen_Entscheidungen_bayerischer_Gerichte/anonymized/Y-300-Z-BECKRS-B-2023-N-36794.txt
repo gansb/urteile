@@ -1,0 +1,112 @@
+Titel:
+Besorgnis der Befangenheit bei Nichterlass eines Versäumnisurteils im schriftlichem Vorverfahren trotz Vorliegens der Voraussetzungen
+Normenkette:
+ZPO § 42, § 276 Abs. 1 S. 1, Abs. 2, § 331 Abs. 3
+Leitsatz:
+Grobe Verfahrensverstöße können dann die Besorgnis der Befangenheit rechtfertigen, wenn das prozessuale Vorgehen des Richters einer hinreichenden gesetzlichen Grundlage entbehrt und sich so sehr von dem normalerweise geübten Verfahren unterscheidet, dass sich für die dadurch betroffene Partei der Eindruck einer sachwidrigen auf Voreingenommenheit beruhenden Benachteiligung aufdrängt (hier bejaht bei Nichterlass eines Versäumnisurteils im schriftlichen Vorfahren trotz fehlender Verteidigungsanzeige und stattdessen erfolgtem Hinweis auf die Nichtanzeige). (Rn. 30 – 35) (redaktioneller Leitsatz)
+Schlagworte:
+Richterablehnung, Befangenheit, grober Verfahrensverstoß, schriftliches Vorverfahren, schlüssige Klage, fehlende Verteidigungsanzeige, Hinweis hierauf, Nichterlass eines Versäumnisurteils
+Vorinstanz:
+LG München I, Beschluss vom 25.09.2023 – 8 O 4201/23
+Fundstellen:
+MDR 2024, 464
+BeckRS 2023, 36794
+NJW-RR 2024, 677
+LSK 2023, 36794
+Tenor
+1. Auf die sofortige Beschwerde der Klägerin wird der Beschluss des Landgerichts München I vom 25.09.2023, Az, 8 O 4201/23, aufgehoben.
+Das in Richtung gegen die Vorsitzende Richterin am Landgericht … gestellte Ablehnungsgesuch wird für begründet erklärt.
+2. Der Wert des Beschwerdegegenstandes wird auf 3.973.550,31 € festgesetzt.
+Gründe
+I.
+1
+Die Klägerin macht gegen die Beklagte zu 1) Schadensersatzansprüche im Zusammenhang mit der Kündigung eines Bauvertrages geltend, die Beklagte zu 2) nimmt sie aufgrund eines Schuldbeitritts und die Beklagte zu 3) wegen einer von ihr gegebenen Vertragserfüllungsbürgschaft in Anspruch.
+2
+In ihrer Klage vom 30.03.2023 hatte die Klägerin für den Fall der Säumnis im schriftlichen Vorverfahren den Erlass eines Versäumnisurteils beantragt.
+3
+Mit Verfügung vom 29.04.2023 ordnete die abgelehnte Richterin die Durchführung eines schriftlichen Vorverfahrens an. Die Verfügung wurde den Beklagten jeweils samt Klageschrift zugestellt, wobei die Zustellung an die Beklagte zu 3) am 17.05.2023 erfolgte.
+4
+Mit Schriftsatz vom 22.05.2023 zeigten die Beklagten zu 1) und 2) ihre Verteidigungsbereitschaft an. Die Beklagte zu 3) zeigte ihre Verteidigungsbereitschaft binnen der ihr gesetzten Notfrist nicht an.
+5
+In der Verfügung vom 25.06.2023 bestimmte die abgelehnte Richterin Termin zur mündlichen Verhandlung auf den 30.08.2023. Ziffer 2.2. der Verfügung lautete:
+„Die Beklagte zu 3) hat ihre Verteidigung bislang nicht angezeigt. Auf § 331 ZPO wird vorsorglich hingewiesen.“
+6
+Die Verfügung wurde der Beklagten zu 3) am 03.07.2023 zugestellt. Ein Versäumnisurteil im schriftlichen Vorverfahren wurde nicht erlassen.
+7
+Die Klägerin beantragte mit Schriftsatz vom 27.06.2023 Terminsverlegung.
+8
+Die Beklagte zu 3) zeigte mit Schriftsatz vom 02.07.2023 ihre Verteidigungsbereitschaft an.
+9
+Mit Schriftsatz vom 11.07.2023 lehnte die Klägerin die Vorsitzende Richterin C. wegen Besorgnis der Befangenheit ab. Dies begründete sie damit, dass die abgelehnte Richterin ohne erkennbaren Grund die für die Klägerin infolge der unterbliebenen Verteidigungsanzeige der Beklagten zu 3) günstige prozessuale Situation, die den Erlass eines Versäumnisurteils ermöglicht hätte, durch ihren nicht veranlassten Hinweis vernichtet habe.
+10
+Die abgelehnte Richterin gab am 21.08.2023 eine Stellungnahme zum Befangenheitsantrag ab. Ihre Vorgehensweise begründete sie mit prozessökonomischen Gründen und der richterlichen Fürsorgepflicht. Die Verteidigungsanzeige der Beklagten zu 3) sei, wie sich aus dem zeitlichen Ablauf ergebe, unabhängig von der beanstandeten Verfügung erfolgt. Zudem machte sie Ausführungen zur Frage der Zulässigkeit des Ablehnungsantrags.
+11
+In ihrem Schriftsatz vom 21.09.2023 vertrat die Klägerin die Ansicht, dass die Ausführungen der abgelehnten Richterin zur Zulässigkeit des Ablehnungsgesuchs einen weiteren Grund für dessen Begründetheit darstellten. Zudem äußerte sie die Vermutung, dass sie das Versäumnisurteil nur deshalb nicht erlassen habe, um sich die Schlüssigkeitsprüfung zu ersparen.
+12
+Mit Beschluss vom 25.09.2023 wies das Landgericht München I den Befangenheitsantrag als unbegründet zurück. Die abgelehnte Richterin habe aufgrund der besonderen Umstände entschieden, dass der Sachverhalt in einer mündlichen Verhandlung geklärt werden müsse und kein Versäumnisurteil gegen eine von drei Beklagten erlassen werden könne. Es bestehe keine Pflicht, ein Versäumnisurteil gem. § 331 Abs. 3 Satz 1 ZPO zu erlassen uns es müsse auch eine Schlüssigkeitsprüfung erfolgen. Der Hinweis auf die noch fehlende Verteidigungsanzeige stelle lediglich eine Wiederholung des gesetzlich vorgeschriebenen Hinweises auf die Erforderlichkeit einer Verteidigungsanzeige dar. Im Übrigen habe der Hinweis keinen Einfluss auf die Verteidigungsanzeige der Beklagten zu 3) gehabt. Die Ausführungen der abgelehnten Richterin in ihrer dienstlichen Stellungnahme zur Zulässigkeit des Befangenheitsantrags erachtetet das Landgericht nicht als hinreichenden Ablehnungsgrund.
+13
+Gegen diesen, ihr formlos mitgeteilten Beschluss, legte die Klägerin mit Schriftsatz vom 09.10.2023 sofortige Beschwerde ein, mit dem Antrag, den Beschluss des Landgerichts München I vom 25.09.2023 aufzuheben und das Ablehnungsgesuch der Klägerin für begründet zu erklären. In ihrer Beschwerdebegründung stützt sich die Klägerin im Wesentlichen darauf, dass die abgelehnte Richterin durch die Erteilung des nicht veranlassten Hinweises einseitig für die Beklagte zu 3) Partei ergriffen und die Aussicht der Klägerin auf einen schnellen Vollstreckungstitel vereitelt habe sowie auf unzulässige Ausführungen der abgelehnten Richterin zur angeblichen Unzulässigkeit des Ablehnungsgesuchs.
+14
+Das Landgericht half der sofortigen Beschwerde mit Beschluss vom 25.10.2023 nicht ab und legte die Akten dem Beschwerdegericht vor.
+15
+Ergänzend zu den Gründen seines angefochtenen Beschlusses meinte das Landgericht, dass eine Schlüssigkeitsprüfung nicht aktenkundig zu machen sei und dass etwaige offene Fragen zur Schlüssigkeit in einer mündlichen Verhandlung erörtert werden könnten. Die Ausführungen der abgelehnten Richterin zur Unzulässigkeit des Ablehnungsgesuchs in ihrer dienstlichen Stellungnahme seien lediglich allgemeiner Natur gewesen.
+16
+Mit Verfügung vom 30.10.2023 gab der Senat den Parteien Gelegenheit zur Stellungnahme zum Nichtabhilfebeschluss und zum Streitwert des Beschwerdeverfahrens.
+17
+Die Beklagte zu 3) beantragte mit Schriftsatz vom 31.10.2023 die Beschwerde zurückzuweisen uns äußerte sich im Hinblick auf den Hinweis in der Senatsverfügung zum Gegenstandswert des Beschwerdeverfahrens.
+18
+Die Beklagten zu 1) und 2) vertreten in ihrem Schriftsatz vom 07.11.2023 ebenfalls die Ansicht, dass die Beschwerde zurückzuweisen sei.
+19
+Die Klägerin ist in ihrem Schriftsatz vom 20.11.2023 der Auffassung, dass die Begründung des Nichtabhilfebeschlusses nicht überzeuge, da sich eine von der abgelehnten Richterin durchgeführte Schlüssigkeitsprüfung weder aus dem Akteninhalt noch aus der dienstlichen Stellungnahme ergebe. Hinzu komme, dass die abgelehnte Richterin in ihrer dienstlichen Stellungnahme die Unzulässigkeit des Ablehnungsgesuchs behauptet habe.
+20
+Auf die Schriftsätze der Parteien im Beschwerdeverfahren wird im Übrigen Bezug genommen.
+II.
+21
+Die zulässige Beschwerde ist auch begründet.
+A
+22
+Die sofortige Beschwerde ist zulässig, insbesondere statthaft (§ 46 Abs. 2 ZPO) und form- und fristgerecht eingelegt.
+B
+23
+Die sofortige Beschwerde ist auch in der Sache begründet.
+I.
+24
+Der Ablehnungsantrag ist zulässig.
+25
+Insbesondere hat die Klägerin ihr Ablehnungsrecht nicht gem. § 43 ZPO dadurch verloren, dass sie nach der Verfügung des Landgerichts vom 25.06.2023, auf deren Inhalt sie ihr Ablehnungsgesuch vom 11.07.2023 gestützt hat, zunächst mit Schriftsatz vom 27.06.2023 einen Terminsverlegungsantrag gestellt hat.
+26
+Bei einem Terminsverlegungsantrag handelt es sich um einen bloßen Formalantrag, dessen Stellung nicht zu einem Verlust des Ablehnungsrechts führt (Zöller-Vollkommer, ZPO, 33. Auflage 2020, § 43 ZPO, Rn. 5 m.w.N.).
+II.
+27
+Der Ablehnungsantrag ist begründet.
+28
+1. Die Besorgnis der Befangenheit eines Richters ist anzunehmen, wenn Umstände vorliegen, die berechtigte Zweifel an seiner Unparteilichkeit oder Unabhängigkeit aufkommen lassen.
+29
+Geeignet, Misstrauen gegen eine unparteiliche Amtsausübung des Richters zu rechtfertigen, sind nur objektive Gründe, die vom Standpunkt des Ablehnenden aus bei vernünftiger Betrachtung die Befürchtung wecken können, der Richter stehe der Sache nicht mehr unvoreingenommen und damit nicht unparteiisch gegenüber. Rein subjektive, unvernünftige Vorstellungen des Ablehnenden scheiden aus. Nicht erforderlich ist, dass der Richter tatsächlich befangen ist; unerheblich ist auch, ob er sich für (un)befangen hält oder Verständnis für Zweifel an seiner Unbefangenheit aufbringt;. Entscheidend ist allein, ob aus Sicht des Ablehnenden genügend objektive Gründe vorliegen, die nach der Meinung einer ruhig und vernünftig denkenden Partei Anlass geben, an der Unvoreingenommenheit des Richters zu zweifeln (Zöller, a.a.O. § 42 ZPO, Rn. 8, 9 m.w.N.).
+30
+2. Grobe Verfahrensverstöße können dann die Besorgnis der Befangenheit rechtfertigen, wenn das prozessuale Vorgehen des Richters einer hinreichenden gesetzlichen Grundlage entbehrt und sich so sehr von dem normalerweise geübten Verfahren unterscheidet, dass sich für die dadurch betroffene Partei der Eindruck einer sachwidrigen auf Voreingenommenheit beruhenden Benachteiligung aufdrängt (Zöller, a.a.O. § 42 ZPO, Rn. 24 m.w.N.; vgl. auch Musielak/Voit, ZPO, 20. Auflage 2023, § 42 ZPO, Rn. 11 m.w.N.).
+31
+3. Ausgehend von diesen unter Ziffern 1 und 2 dargestellten rechtlichen Prämissen rechtfertigt der vorliegende Sachverhalt aus objektiver Sicht in der Gesamtschau ein Misstrauen der Klägerin gegen die Unvoreingenommenheit der abgelehnten Richterin.
+32
+a) Nichterlass eines Versäumnisurteils gem. § 331 Abs. 3 ZPO und Hinweis an die Beklagte zu 3).
+33
+Nachdem die Beklagte zu 3) entgegen § 276 Abs. 1 Satz 1, Abs. 2 ZPO ihre Verteidigungsabsicht nicht rechtzeitig angezeigt hatte und die Klägerin für diesen Fall bereits in ihrer Klage den Erlass eines Versäumnisurteils beantragt hatte, lagen die formellen Voraussetzungen für den Erlass eines Versäumnisurteils im schriftlichen Vorverfahren gem. § 331 Abs. 3 ZPO vor. Die Schlüssigkeit der Klage gegen die Beklagte zu 3) vorausgesetzt, war die abgelehnte Richterin daher zu dessen Erlass verpflichtet. Ein diesbezügliches Ermessen wird durch § 331 Abs. 3 ZPO nicht eröffnet, weshalb der Verweis der abgelehnten Richterin in ihrer dienstlichen Stellungnahme auf prozessökonomische Gründe nicht verfängt.
+34
+Soweit die abgelehnte Richterin in ihrer dienstlichen Stellungnahme darauf verweist, dass Voraussetzung für den Erlass eines Versäumnisurteils eine vollumfänglich schlüssige Klage sei, so ist dies zwar grundsätzlich zutreffend, allerdings hatte die abgelehnte Richterin gegenüber der Klägerin keine Bedenken gegen die Schlüssigkeit der Klage gegen die Beklagte zu 3) kommuniziert, weshalb es sich aus der Sicht der Klägerin bei vernünftiger Betrachtung als willkürlich darstellte, dass das Landgericht das beantragte Versäumnisurteil nicht nur nicht erließ, sondern der Beklagten zu 3) durch den erneuten Hinweis noch einmal Gelegenheit gab, ihre Verteidigungsabsicht trotz Ablauf der hierfür zuvor gesetzten Notfrist doch noch zu erklären und die Klägerin hierdurch der Möglichkeit beraubte, einen Vollstreckungstitel zu erlangen. Auch bei einer vernünftigen und besonnenen Partei konnte hierdurch berechtigterweise der Eindruck einer unsachlichen Einstellung ihr gegenüber bzw. einer Bevorzugung der Beklagten zu 3) entstehen.
+35
+Eine gesetzliche Grundlage für eine von der abgelehnten Richterin in ihrer dienstlichen Stellungnahme bemühte Fürsorgepflicht, welche die Erteilung eines Hinweises an die Beklagte zu 3) auf das Fehlen ihrer Verteidigungsanzeige und die Folgen gem. § 331 ZPO erfordert hätte, gibt es nicht. Darauf, ob sich der an die Beklagte zu 3) in Ziffer 2.2. der Verfügung vom 25.06.2023 erteilte Hinweis auch tatsächlich ausgewirkt hat, kommt es für das Entstehen der Besorgnis der Befangenheit nicht entscheidungserheblich an.
+36
+b) Ausführungen in der dienstlichen Stellungnahme der abgelehnten Richterin zur Frage der Zulässigkeit des Ablehnungsgesuchs.
+37
+Gem. § 44 Abs. 3 ZPO hat sich der abgelehnte Richter über den Ablehnungsgrund dienstlich zu äußern. Ausführungen zur Zulässigkeit oder Begründetheit haben jedoch zu unterbleiben (Zöller, a.a.O. § 44 ZPO, Rn. 9 m.w.N.).
+38
+Vorliegend hat die abgelehnte Richterin das Ablehnungsgesuch zwar nicht explizit als unzulässig bezeichnet, sie hat jedoch durch Verweis auf § 43 ZPO und den vor dem Ablehnungsgesuch gestellten Terminsverlegungsantrag der Klägerin jedenfalls Zweifel in dieser Hinsicht geäußert. Zwar erachtet der Senat die Ausführungen, welche die abgelehnte Richterin in ihrer dienstlichen Stellungnahme zur Zulässigkeit des Ablehnungsgesuchs gemacht hat, für sich genommen noch nicht als ausreichend, um die Besorgnis der Befangenheit zu begründen. Allerdings ist auch dieses Verhalten in die vorzunehmende Gesamtbetrachtung einzustellen und im vorliegenden Fall geeignet, bei der Klägerin den zuvor durch die Verfügung vom 25.06.2023 erweckten Eindruck zu verstärken, dass die abgelehnte Richterin ihr gegenüber eine ablehnende Haltung entwickelt hat.
+39
+Die landgerichtliche Entscheidung ist daher aufzuheben. Dem Antrag der Klägerin ist zu entsprechen.
+C
+40
+Eine Kostenentscheidung ist nicht veranlasst, weil die Kosten der erfolgreichen Beschwerde solche des Rechtsstreits sind (Zöller, a.a.O. § 46 ZPO, Rn. 22).
+41
+Gründe für die Zulassung der Rechtsbeschwerde sind nicht gegeben (§ 574 Abs. 1 Nr. 2, Abs. 3 ZPO).
+42
+Der Beschwerdewert entspricht dem Wert der Hauptsache (BGH, Beschluss vom 17.01.1968, Az. IV ZB 3/68 und Beschluss vom 21.12.2006, Az. IX ZB 60/06).

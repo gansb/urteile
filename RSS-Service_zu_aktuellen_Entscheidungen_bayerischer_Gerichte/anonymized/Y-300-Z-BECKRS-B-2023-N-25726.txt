@@ -1,0 +1,69 @@
+Titel:
+Keine Widerlegung der Vermutungswirkung des § 891 Abs. 1 BGB bei bloßen Zweifeln des Grundbuchamtes an der Richtigkeit der Eintragung
+Normenketten:
+BGB § 891 Abs. 1, § 2205 S. 2, § 2361
+GBO § 13, § 18 Abs. 1 S. 1, § 19
+FamFG § 49
+Leitsätze:
+Allein eine die Rückgabe des Erbscheins an das Nachlassgericht verfügende einstweilige Anordnung reicht nicht aus, um die auch für das Grundbuchamt geltende Vermutung der Rechtsinhaberschaft des im Grundbuch als Eigentümer eingetragenen Erbscheinserben zu entkräften. (Rn. 17)
+Die Vermutung des § 891 Abs. 1 GBO gilt auch im Grundbuchverfahren; widerlegt ist sie erst, wenn dem Grundbuchamt Tatsachen sicher bekanntgeworden sind, die die Unrichtigkeit ergeben, bloße Zweifel genügen nicht. (Rn. 15) (redaktioneller Leitsatz)
+Schlagworte:
+Grundbuch, Vermutungswirkung, Erbschein, Anordnung der Rückgabe, Zweifel, Legalitätsprinzip
+Fundstellen:
+RPfleger 2024, 264
+FamRZ 2024, 315
+ErbR 2024, 320
+FGPrax 2023, 260
+DNotZ 2024, 186
+ZEV 2024, 57
+RNotZ 2024, 128
+BeckRS 2023, 25726
+LSK 2023, 25726
+NJW-RR 2024, 631
+Tenor
+Auf die Beschwerde der Beteiligten zu 1 wird die Zwischenverfügung des Amtsgerichts Memmingen – Grundbuchamt – vom 23.8.2023 aufgehoben.
+Gründe
+I.
+1
+Die Beteiligten begehren die Eintragung einer Auflassungsvormerkung an einem Grundstück.
+2
+Als Eigentümerin des verfahrensgegenständlichen Grundstücks war im Grundbuch C. P. eingetragen. Diese verstarb am ....2022. Am 12.12.2022 erteilte das Nachlassgericht R. H. einen Erbschein, in dem er als Alleinerbe der C. P. ausgewiesen war, und der Beteiligten zu 1 ein Testamentsvollstreckerzeugnis.
+3
+Mit notariellem Vertrag vom 5.6.2023 übertrug R. H. das Grundstück der Beteiligten zu 1 in Erfüllung erbrechtlicher Anordnungen zu Alleineigentum. Die entsprechende Eintragung im Grundbuch erfolgte am 5.7.2023.
+4
+Am 4.8.2023 erließ das Nachlassgericht eine einstweilige Anordnung nach § 49 FamFG, in der es R. H. und die Beteiligte zu 1 zur Rückgabe der erteilten Ausfertigungen des Erbscheins bzw. des Testamentsvollstreckerzeugnisses aufforderte, da Zweifel an der Richtigkeit des Erbscheins bestünden.
+5
+Mit notariellem Vertrag vom 17.8.2023 verkaufte die Beteiligte zu 1 das Grundstück an die Beteiligten zu 2 und 3 zu je hälftigem Miteigentum. Zugleich bewilligte die Beteiligte zu 1 und beantragten die Beteiligten zu 2 und 3 zur Sicherung des Anspruchs die Eintragung einer Vormerkung im Grundbuch.
+6
+Mit Zwischenverfügung vom 23.8.2023 forderte das Grundbuchamt den Urkundsnotar auf, einen neuen Erbschein beizubringen, der R. H. als Erben ausweise, da das Grundbuchamt nicht zum gutgläubigen Erwerb verhelfen dürfe. Aufgrund der Anordnung der Rückgabe des Erbscheins bestünden Zweifel an der Verfügungsbefugnis des R. H.
+7
+Gegen diese Zwischenverfügung hat die Beteiligte zu 1 mit Schreiben vom 24.8.2023 Beschwerde eingelegt. Die Vermutung, dass demjenigen, für den im Grundbuch ein Recht eingetragen sei, das Recht auch zustehe, gelte auch für das Grundbuchamt. Ein eingetragenes Recht sei deshalb als bestehend und der eingetragene Berechtigte als der verfügungsberechtigte Inhaber des Rechts anzusehen, solange diese Vermutung nicht durch den vollen Beweis ihres Gegenteils widerlegt sei.
+8
+Der Urkundsnotar hat mit Schreiben vom 31.8.2023 ergänzend Stellung genommen. Bereits im Grundsatz werde bestritten, dass das Grundbuchamt einen Rechtserwerb nicht herbeiführen dürfe, von dem es wisse, dass er nur aufgrund guten Glaubens erfolge. Selbst wenn man dieser überkommenen Auffassung folgen wollte, lägen die Voraussetzungen für die Einschränkung des Gutglaubensschutzes hier aber schlicht nicht vor. Die gesetzliche Vermutung für das Bestehen des im Grundbuch eingetragenen Rechts gelte auch für das Grundbuchamt selbst; sie werde erst durch den vollen Beweis des Gegenteils widerlegt. Es sei lediglich eine einstweilige Anordnung in der Nachlasssache ergangen, die im Übrigen zweifelhaft erscheine. Er gehe davon aus, dass die jetzige Bucheigentümerin jedenfalls ihrerseits gutgläubig erworben habe.
+9
+Das Grundbuchamt hat mit Beschluss vom 7.9.2023 nicht abgeholfen. Durch die Anordnung der Testamentsvollstreckung habe der Erbe nicht über das Grundstück verfügen können. Deshalb hätte die Testamentsvollstreckerin eigentlich die Übertragung an sich selbst samt entsprechender Auflassung erklären müssen. Dies würde kein unzulässiges Insichgeschäft darstellen, da die Testamentsvollstreckerin in Erfüllung einer Verbindlichkeit, nämlich des Vermächtnisanspruchs handle. Gehandelt habe jedoch nicht die Testamentsvollstreckerin, sondern der Erbe selbst und somit ein Nichtberechtigter, allerdings mit Zustimmung der Testamentsvollstreckerin. Dadurch sei ein gutgläubiger Erwerb der Beteiligten zu 1 ausgeschlossen, da dann sie auf beiden Seiten des Geschäfts stehe, damit kein Verkehrsgeschäft vorliege und sie nicht schutzwürdig sei. Aufgrund der einstweiligen Anordnung sei ein neuer Erbschein bzw. ein Nachweis über die Aufhebung der einstweiligen Anordnung zu verlangen.
+II.
+10
+Die zulässige Beschwerde ist begründet.
+11
+1. Die Beschwerde ist zulässig.
+12
+a) Insbesondere ist sie gemäß § 71 Abs. 1 GBO statthaft, denn Entscheidungen des Grundbuchamts im Sinne dieser Bestimmung sind auch Zwischenverfügungen nach § 18 Abs. 1 Satz 1 GBO (OLG Frankfurt a.M. FGPrax 2021, 197; Senat FGPrax 2011, 173; OLG Hamm FGPrax 2010, 177; Demharter GBO 33. Aufl. § 71 Rn. 1; BeckOK GBO/Kramer 50. Ed. § 71 Rn. 68; Meikel/Schmidt-Räntsch GBO 12. Aufl. § 71 Rn. 35).
+13
+b) Die Beteiligte zu 1 ist auch zur Einlegung der Beschwerde gegen die Zurückweisung des Antrags berechtigt, obwohl sie diesen nicht gestellt hatte. Denn in einem Antragsverfahren i.S. von § 13 Abs. 1 Satz 1 GBO ist beschwerdeberechtigt, wer kraft eigenen Rechts einen Antrag stellen durfte (BayObLGZ 1980, 37/40; Demharter § 71 Rn. 63; BeckOK GBO/Kramer § 71 Rn. 181; Meikel/Schmidt-Räntsch § 71 Rn. 122). Dies war bei der Beteiligten zu 1 als zumindest Buchberechtigter gemäß § 13 Abs. 1 Satz 2 GBO der Fall.
+14
+2. Das Rechtsmittel hat auch in der Sache Erfolg, da es der Vorlage eines neuen Erbscheins nicht bedarf.
+15
+Gemäß § 19 GBO erfolgte eine Eintragung, wenn derjenige sie bewilligt, dessen Recht von ihr betroffen wird. Ist allerdings im Grundbuch für jemand ein Recht eingetragen, so wird nach § 891 Abs. 1 BGB vermutet, dass ihm das Recht zustehe. Diese Vermutung gilt auch im Grundbuchverfahren. Widerlegt ist sie erst, wenn dem Grundbuchamt Tatsachen sicher bekanntgeworden sind, die die Unrichtigkeit ergeben; bloße Zweifel genügen nicht (OLG Köln FGPrax 2013, 201; Senat DNotZ 2012, 298/299; OLG Karlsruhe NJW-RR 1998, 445/446; OLG Zweibrücken FGPrax 1997, 127/128; BayObLG NJW-RR 1989, 718/719; KG Rpfleger 1973, 21/22; BeckOK GBO/Reetz § 13 Rn. 29; Demharter Anh zu § 13 Rn. 16; Grüneberg/Herrler BGB 82. Aufl. § 891 Rn. 10; Meikel/Böttcher § 20 Rn. 128; NK-BGB/Krause 5. Aufl. § 891 Rn. 33).
+16
+Vorliegend ist die Beteiligte zu 1 im Grundbuch als Eigentümerin des verfahrensgegenständlichen Grundstücks eingetragen, was die entsprechende Vermutung nach § 891 Abs. 1 BGB auslöst. Diese ist auch nicht widerlegt. Das wäre nur dann der Fall, wenn feststünde, dass der Eigentumserwerb durch die Beteiligte zu 1 unwirksam gewesen wäre. Davon kann indes nicht ausgegangen werden.
+17
+a) Zwar mögen angesichts der Aufforderung zur Rückgabe des Erbscheins im Wege der einstweiligen Anordnung durch das Nachlassgericht nach § 49 FamFG mittlerweile Zweifel an der Erbenstellung des R. H. und damit auch an seiner Verfügungsberechtigung bei der Veräußerung des Grundstücks an die Beteiligte zu 1 bestehen. Gemäß § 2361 BGB eingezogen und damit kraftlos ist der Erbschein allerdings nicht. Dass es von dessen Unrichtigkeit überzeugt wäre, hat weder das Nachlassgericht noch das Grundbuchamt angeführt; vielmehr ist sowohl im Beschluss vom 4.8.2023 als auch in der Zwischenverfügung vom 23.8.2023 lediglich von Zweifeln die Rede. Diese reichen aber, wie oben ausgeführt, gerade nicht aus, um die Vermutung des § 891 Abs. 1 BGB zu entkräften.
+18
+b) Dass R. H. auch unter Zugrundelegung seiner Erbenstellung infolge der Anordnung von Testamentsvollstreckung gemäß § 2211 Abs. 1 BGB nicht verfügungsbefugt war, ist unschädlich, weil diese Befugnis nach § 2205 Satz 2 BGB der Beteiligten zu 1 zustand und letztere in die Übereignung gemäß § 185 Abs. 1 BGB eingewilligt hatte; das Selbstkontraktionsverbot des § 181 BGB stand dem nicht entgegen, weil die Beteiligte zu 1 insofern in Erfüllung einer Verbindlichkeit handelte. Überlegungen zum Vorliegen eines Verkehrsgeschäfts im Hinblick auf einen gutgläubigen Erwerb durch die Beteiligte zu 1, wie sie das Grundbuchamt – von seinem Standpunkt aus folgerichtig – angestellt hat, erübrigen sich hier, weil, wie unter a) ausgeführt, von einer Erbenstellung des R. H. auszugehen ist und sich die Frage des gutgläubigen Erwerbs somit nicht stellt.
+19
+c) Dass das Grundbuchamt aufgrund des Legalitätsprinzips eine Eintragung nicht vornehmen darf, wenn feststeht, dass sich der Rechtserwerb nur kraft guten Glaubens des Erwerbers vollziehen kann, entspricht der herrschenden Meinung (OLG Hamburg MittBayNot 2018, 163 f.; OLG Köln FGPrax 2013, 201; Senat DNotZ 2012, 298/299; OLG Karlsruhe NJW-RR 1998, 445/446; BayObLGZ 1994, 66; BeckOK GBO/Wilsch § 35 Rn. 65; Demharter § 13 Rn. 12; a.A. Meikel//Böttcher Einl D Rn. 81; offengelassen von OLG Zweibrücken FGPrax 1997, 127/128). In Bezug auf die hier im Streit stehende Eintragung der Beteiligten zu 2 und 3 greift dieser Grundsatz allerdings nicht ein. Denn angesichts der bereits unter a) dargestellten Vermutungswirkung der Eintragung der Beteiligten zu 1 nach § 891 Abs. 1 BGB steht gerade nicht fest, dass die Beteiligten zu 2 und 3 die Vormerkung lediglich kraft guten Glaubens erwerben könnten. Die Vermutung ist, wie ebenfalls ausgeführt, nicht widerlegt, da insofern bloße Zweifel an der Richtigkeit der Eintragung nicht ausreichen.
+20
+d) Zwar wird – worauf sich auch das Grundbuchamt berufen hat – in der Literatur vertreten, dass im Falle einer Verfügung durch den bereits eingetragenen Erbscheinserben das Grundbuchamt die Anordnung der Rückgabe des Erbscheins nach § 49 FamFG zum Anlass nehmen müsse, aufgrund deshalb bestehender Zweifel an der Verfügungsberechtigung eine Zwischenverfügung zu erlassen mit der Aufforderung, einen neuen Erbschein beizubringen oder die Aufhebung der einstweiligen Anordnung nachzuweisen (BeckOK GBO/Wilsch § 35 Rn. 65; Horn/Krätzschel ZEV 2018, 14/17). Ob dies auf die vorliegende Konstellation, in der unmittelbarer Gegenstand der Prüfung nicht eine Verfügung des Erbscheinserben ist, sondern eine solche desjenigen, der das Grundstück vom Erbscheinserben erworben hat, übertragbar wäre, kann offenbleiben. Denn der geschilderten Auffassung kann von vornherein nicht gefolgt werden. Sie lässt bloße Zweifel an der Verfügungsberechtigung ausreichen, was im klaren Widerspruch zur Regelung des § 891 Abs. 1 BGB steht, der die bereits unter a) erläuterte Vermutungswirkung der Grundbucheintragung statuiert, die nur durch die Überzeugung von deren Unrichtigkeit entkräftet werden kann. Mit § 891 Abs. 1 BGB hat der Gesetzgeber eine bewusste Grundsatzentscheidung zur Erleichterung des Rechtsverkehrs (NK-BGB/Krause § 891 Rn. 1) getroffen, die gegebenenfalls zu Lasten des Legalitätsprinzips geht.
+21
+3. Eine Kostenentscheidung ist nicht veranlasst, da die grundsätzliche Haftung der Beteiligten zu 1 für die gerichtlichen Kosten des Beschwerdeverfahrens aus § 22 Abs. 1 GNotKG aufgrund des Erfolgs des Rechtsmittels gemäß § 25 Abs. 1 GNotKG erloschen ist. Daher bedarf es auch keiner Geschäftswertfestsetzung.
