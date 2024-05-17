@@ -14,6 +14,7 @@ gerichts_urteil = Path(
 gerichts_urteil = Path(
     # "./RSS-Service_zu_aktuellen_Entscheidungen_bayerischer_Gerichte/anonymized/Y-300-Z-BECKRS-B-2021-N-6971.txt"
     "./RSS-Service_zu_aktuellen_Entscheidungen_bayerischer_Gerichte/anonymized/Y-300-Z-BECKRS-B-2019-N-17491.txt"
+    # r"C:\Users\andreasr\Documents\repositories\urteile\RSS-Service_zu_aktuellen_Entscheidungen_bayerischer_Gerichte\anonymized\Y-300-Z-BECKRS-B-2019-N-17491.txt"
 ).read_text(encoding="utf-8")
 sentences = [i.text for i in nlp(gerichts_urteil).sents if len(i.text.split(" ")) > 3]
 
@@ -31,7 +32,7 @@ def window(seq, n=2):
         result = result[1:] + [elem,]
         yield result
 to_calc = []
-for w in window(sentences,n=2):
+for w in window(sentences,n=10):
     to_calc.append(list(w))
 import pprint
 # sentences = [gerichts_urteil]
@@ -44,11 +45,12 @@ for tc in tqdm.tqdm(to_calc):
     )
     yes_prob, no_prob = get_yes_no_probs(completion)    
     if no_prob > yes_prob:
-        non_anonymous.append(
-            {
+        elem =            {
                 "sentence": sentence,
                 "reasoning": completion.choices[0].message.content,
                 "yes_prob": yes_prob,
                 "no_prob": no_prob,
-            })
+            }
+        print(elem)
+        non_anonymous.append(elem)
 print(non_anonymous)
