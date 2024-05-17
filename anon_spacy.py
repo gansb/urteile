@@ -9,13 +9,11 @@ import random
 from spacy.util import minibatch, compounding
 import json
 
-# Parse the text with spacy, extract named entities
-
-
-def just_run(model):
+"""
+Run the model on the text and print the lines with named entities
+"""
+def just_run(model, directory):
     nlp = spacy.load(model)
-    # Open anonymized directory
-    directory = 'Das_Bundesarbeitsgericht_-_Entscheidung/anonymized'
     files = os.listdir(directory)
     for filename in files:
         with open(f'{directory}/{filename}', 'r') as f:
@@ -27,43 +25,49 @@ def just_run(model):
                 if len(pers) > 0:
                     print (line, pers)
 
-
-def run(model):
+"""
+Run the model on a random selection of files and lines and export the results for correction
+"""
+def run(model, directory):
     nlp = spacy.load(model)
     # Open anonymized directory
-    directory = 'Das_Bundesarbeitsgericht_-_Entscheidung/anonymized'
     files = os.listdir(directory)
-    sample = random.sample(files, 4)
+    sample = random.sample(files, 10)
     output_data = []
     for filename in sample:
         with open(f'{directory}/{filename}', 'r') as f:
             print (f'Processing {filename}')
             text_lines = f.readlines()
-            for line in random.sample(text_lines, 7):
+            for line in random.sample(text_lines, 10):
                 doc = nlp(line)
                 entities = []
                 for ent in doc.ents:
-                    entities.append({"text": ent.text, "start": ent.start_char, "end": ent.end_char, "label": ent.label_})
-                output_data.append({"text": line, "entities": entities})
+                    entities.append([ ent.start_char, ent.end_char, ent.label_])
+                output_data.append({"text": line, "label": entities})
 
     # Save to JSON file
     with open(model + '_output.json', 'w') as f:
-        json.dump(output_data, f, indent=4)
+        # Write as jsonl file: one JSON object per line
+        for item in output_data:
+            f.write(json.dumps(item))
+            f.write('\n')
 
-
-def train(model, new_model):
+"""
+Fine-tunes the named entity recognizer to recognize the entities in the new training data
+"""
+def train(model, jsonl, new_model):
     nlp = spacy.load(model)
 
-    with open(model + '_output_corrected.json', 'r') as f:
-        corrected_data = json.load(f)
+    with open(jsonl, 'r') as f:
+        corrected_data =  [json.loads(line) for line in f]
 
     # Convert JSON data to spaCy training format
     train_data = []
     for item in corrected_data:
         text = item['text']
         entities = []
-        for ent in item['entities']:
-            entities.append((ent['start'], ent['end'], ent['label']))
+        for ent in item['label']:
+            entities.append((ent[0], ent[1], ent[2]))
         train_data.append((text, {"entities": entities}))
 
     # Disable other pipeline components
@@ -93,13 +97,15 @@ def train(model, new_model):
         # Save model to output directory    
         nlp.to_disk(new_model)
 
-# 'de_core_news_lg'
 
-training_model = 'models/iteration2'
-next_training_model = 'models/iteration3'
+directory = 'RSS-Newsfeed_des_Bundesverwaltungsgerichts/anonymized'
+
+next_training_model = 'fine_tuned_model'
 
 # Manual training:
 
-#train(training_model, next_training_model)
-#run(next_training_model)
-just_run(next_training_model)
+# 'de_core_news_lg'
+train('de_core_news_lg', jsonl='labelled.jsonl', new_model=next_training_model)
+run(next_training_model, directory)
+
+#just_run(next_training_model, directory)
